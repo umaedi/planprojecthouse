@@ -308,7 +308,13 @@ h2 {
   background-color: #fff;
   border-radius: 0 0 5px 5px;
 }
+.map {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-top: 1px solid #15121f;
+  padding-top: 10px;
 
+}
 .footer {
   position: relative;
   width: 100%;
